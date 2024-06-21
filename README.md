@@ -1,1 +1,1 @@
-SMIT-Form
+SMIT-FORM
